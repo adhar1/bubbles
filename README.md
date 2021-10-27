@@ -1,5 +1,5 @@
 # Asset Bubbles and Reinforcement Learning
-Python implementation of "Monetary Policy and Asset Bubbles".
+Python implementation of Section 6 of ["Monetary Policy and Asset Bubbles"](https://drive.google.com/file/d/1QqeDRX6Vv2vcwOsOdJ_TLtGc9q4ZGOcW/view?usp=sharing).
 
 ### Prerequisites
 - R package for [psymonitor](https://cran.r-project.org/web/packages/psymonitor/psymonitor.pdf). This is the R package from [""Testing for Multiple Bubbles: Historical Episodes of Exuberance and Collapse in the S&P 500""](https://onlinelibrary.wiley.com/doi/abs/10.1111/iere.12132).
